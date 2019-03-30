@@ -1,0 +1,172 @@
+@font-face
+{
+	font-family:Annabelle;
+	src: url(Fonts/Annabelle.ttf);
+}
+@font-face
+{
+	font-family:Intro;
+	src: url(Fonts/Intro.otf);
+}
+@font-face
+{
+	font-family:Roboto light;
+	src: url(Fonts/Roboto-Light.ttf);	
+}
+@font-face
+{
+	font-family:Roboto bold;
+	src: url(Fonts/Roboto-Bold.ttf);
+}
+
+@font-face
+{
+	font-family:Roboto condensed;
+	src: url(Fonts/Roboto-Condensed.ttf);
+}
+@font-face
+{
+	font-family:Roboto regular;
+	src: url(Fonts/Roboto-Regular.ttf);
+}
+
+* 
+{ 
+	margin: 0;
+	padding: 0;
+}
+
+a
+{
+	outline: none;
+	border: 0;
+}
+
+.pf
+{
+	position: fixed;
+}
+
+.pa
+{
+	position: absolute;
+}
+
+.pr
+{
+	position: relative;
+}
+
+.db
+{
+	display: block;
+}
+
+.dn
+{
+	display: none;
+}
+
+.di
+{
+	display: inline;
+	vertical-align: middle;
+}
+
+.dib
+{
+	display: inline-block;
+	zoom: 1;
+	*display: inline;
+	vertical-align: top;
+}
+
+.ma
+{
+	margin: 0 auto;
+}
+
+.oa
+{
+	overflow: auto;
+}
+
+.oh
+{
+	overflow: hidden;
+}
+
+.fl
+{
+	float: left;
+}
+
+.fr
+{
+	float: right;
+}
+
+.tac
+{
+	text-align: center;
+}
+
+.ttu
+{
+	text-transform: uppercase;
+}
+
+.ttl
+{
+	text-transform: lowercase;
+}
+
+.wsn
+{
+	white-space: nowrap;
+}
+
+.w
+{
+	width: 100%;
+}
+
+.dt
+{
+	display: table;
+}
+
+.dth
+{
+	display: table-header-group;
+}
+
+.dtr
+{
+	display: table-row-group;
+}
+
+.dtf
+{
+	display: table-footer-group;
+}
+
+li
+{
+	list-style: none;
+}
+
+img
+{
+	border: 0;
+}
+
+.b
+{
+	border: solid 1px black;
+}
+
+.clear {
+	clear: both;
+}
+
